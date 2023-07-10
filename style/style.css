@@ -4,6 +4,21 @@
     padding: 0px;
     font-family: 'Roboto', sans-serif;
 }
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+h4 {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
 .button {
     color: #FFF;
     font-size: 20px;
@@ -13,6 +28,7 @@
     border-radius: 8px;
     background: #E55473;
 }
+
 /* Header start here */
 header {
     background-color: rgba(229, 84, 115, 0.10);
@@ -21,6 +37,7 @@ header {
     align-items: center;
     justify-content: space-between;
 }
+
 header h1 {
     color: #272727;
     font-size: 80px;
@@ -28,14 +45,109 @@ header h1 {
     width: 700px;
     height: 300px;
 }
+
 header p {
-    color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
-    font-weight: 400;
     width: 600px;
     height: 100px;
+    text-align: left;
 }
-.head-image{
+
+.head-image {
     width: 600px;
     height: 800px;
+}
+
+/* main start here */
+
+/* featured part */
+.featured {
+    padding: 100px 200px 100px 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature-h {
+    margin-bottom: 20px;
+}
+
+.feature-p {
+    margin-bottom: 40px;
+}
+
+.img-feature {
+    width: 300px;
+    height: 400px;
+    display: flex;
+    gap: 30px;
+}
+
+.img-f1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.img-f2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.img-f3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+/* Hot sales start here */
+.hot-sales {
+    display: flex;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px 400px 100px 400px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sales-h {
+    margin-bottom: 20px;
+}
+
+.off {
+    color: #E55473;
+}
+
+.sales-p {
+    margin-bottom: 40px;
+    width: 600px;
+    height: 60px;
+}
+
+.sign {
+    align-items: center;
+}
+
+.sale-image {
+    width: 300px;
+    height: 400px;
+}
+
+#sign {
+    display: inline-flex;
+    align-items: flex-start;
+}
+
+/* instagram start here  */
+.insta {
+    padding: 50px 200px 50px 200px;
+}
+.insta-h {
+    margin-bottom: 20px;
+}
+.insta-p {
+    margin-bottom: 40px;
+}
+.insta-img {
+    gap: 24px;
+    width: 342px;
+    height: 396px;
+    display: flex;
+    
+    
 }
