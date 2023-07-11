@@ -165,7 +165,7 @@ header p {
 /* My bonus marks section start here  */
 .Bonus-marks-flower {
     background: rgba(229, 84, 115, 0.10);
-    padding: 120px 200px;
+    padding: 60px 200px;
 }
 video {
     width: 1440px;
@@ -191,7 +191,6 @@ video {
 .deal-p {
     margin-bottom: 20px;
 }
-
 .button-mail {
     padding: 20px 20px;
     border: none;
@@ -200,9 +199,8 @@ video {
     color: rgba(39, 39, 39, 0.60);
     font-size: 16px;
     font-weight: 400;
-    width: 600px;
+    width: 300px;
     margin-left: 60px;
-    align-items: center;
 }
 /* footer start here */
 footer {
