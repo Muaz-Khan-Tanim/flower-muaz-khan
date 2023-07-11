@@ -182,14 +182,16 @@ video {
     background-repeat: no-repeat;
     width: 1440px;
     height: 500px;
-    padding: 120px 280px;
+    padding: 120px 300px;
     margin: 120px 200px 0px 200px;
 }
 .deal-h {
     margin-bottom: 20px;
+    text-align: left;
 }
 .deal-p {
     margin-bottom: 20px;
+    text-align: left;
 }
 .button-mail {
     padding: 20px 20px;
@@ -200,7 +202,6 @@ video {
     font-size: 16px;
     font-weight: 400;
     width: 300px;
-    margin-left: 60px;
 }
 /* footer start here */
 footer {
