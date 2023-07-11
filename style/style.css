@@ -162,6 +162,20 @@ header p {
     display: flex;
 }
 
+/* My bonus marks section start here  */
+.Bonus-marks-flower {
+    background: rgba(229, 84, 115, 0.10);
+    padding: 120px 200px;
+}
+video {
+    width: 1440px;
+}
+.marks-h {
+    margin-bottom: 20px;
+}
+.marks-p {
+    margin-bottom: 20px;
+}
 /* latest deals start here  */
 .latest-deals {
     background-image: url(../images/Rectangle\ 9.png);
@@ -171,18 +185,11 @@ header p {
     padding: 120px 280px;
     margin: 120px 200px 0px 200px;
 }
-
 .deal-h {
-    text-align: center;
-    height: vh;
-    justify-content: center;
     margin-bottom: 20px;
 }
-
 .deal-p {
-    text-align: center;
-    justify-content: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .button-mail {
