@@ -150,11 +150,13 @@ header p {
     width: 342px;
     height: 396px;
     display: flex;
+    margin-bottom: 60px;
 }
 /* My bonus marks section start here  */
 .Bonus-marks-flower {
     background: rgba(229, 84, 115, 0.10);
     padding: 60px 200px;
+    margin-bottom: 20px;
 }
 video {
     width: 1440px;
